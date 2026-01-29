@@ -1,7 +1,7 @@
 # Disaster Response & Relief Coordination System
 ## Laboratory Sessions 1 & 2
 
-**Course:** Intelligent Agent Systems  
+**Course:** DCIT 403 : Designing Intelligent Systems  
 **Programming Language:** Python  
 **Agent Framework:** SPADE (Smart Python Agent Development Environment)  
 **Platform:** GitHub Codespaces
@@ -315,17 +315,6 @@ sudo prosodyctl register logistics localhost logis123
 
 ---
 
-## Future Extensions (Labs 3+)
-
-The foundation laid in Labs 1 & 2 enables:
-- **Lab 3:** Inter-agent communication (FIPA-ACL)
-- **Lab 4:** Coordinator agents for task allocation
-- **Lab 5:** Rescue agents with action capabilities
-- **Lab 6:** Logistics agents for resource management
-- **Lab 7:** Multi-agent coordination and negotiation
-- **Lab 8:** System evaluation and performance metrics
-
----
 
 ## Notes
 
@@ -339,10 +328,8 @@ Disaster generation is random for demonstration purposes. The 10% probability pe
 
 ## Author
 
-**Laboratory Manual:** Intelligent Agent Systems Course  
+**Name:** Bernard Owusu-Dankwah
 **Implementation Date:** January 29, 2026  
-**Platform:** GitHub Codespaces  
-**Development Environment:** Ubuntu 24.04.3 LTS  
 
 ---
 
