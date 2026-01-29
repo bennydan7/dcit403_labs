@@ -1,0 +1,53 @@
+[
+  {
+    "event_id": "D0009",
+    "disaster_type": "Earthquake",
+    "location": "Tema (5.6260, 0.0091)",
+    "severity": "MODERATE",
+    "timestamp": "2026-01-29T10:53:42.812847",
+    "affected_area_km2": 11.920870502635251,
+    "casualties": 19,
+    "infrastructure_damage_pct": 15.764392812466506,
+    "resources_needed": {
+      "medical_kits": 24,
+      "food_packages": 278,
+      "water_bottles": 127,
+      "rescue_teams": 8
+    },
+    "detected_by": "SENSOR-003"
+  },
+  {
+    "event_id": "D0010",
+    "disaster_type": "Fire",
+    "location": "Tema (5.6260, 0.0091)",
+    "severity": "MODERATE",
+    "timestamp": "2026-01-29T10:53:42.813059",
+    "affected_area_km2": 8.308172801712155,
+    "casualties": 76,
+    "infrastructure_damage_pct": 20.188786150101116,
+    "resources_needed": {
+      "medical_kits": 48,
+      "food_packages": 89,
+      "water_bottles": 400,
+      "rescue_teams": 10
+    },
+    "detected_by": "SENSOR-003"
+  },
+  {
+    "event_id": "D0015",
+    "disaster_type": "Storm",
+    "location": "Tema (5.6260, 0.0091)",
+    "severity": "CATASTROPHIC",
+    "timestamp": "2026-01-29T10:53:48.820830",
+    "affected_area_km2": 9.048216523223976,
+    "casualties": 28,
+    "infrastructure_damage_pct": 46.286428072762206,
+    "resources_needed": {
+      "medical_kits": 58,
+      "food_packages": 117,
+      "water_bottles": 161,
+      "rescue_teams": 17
+    },
+    "detected_by": "SENSOR-003"
+  }
+]

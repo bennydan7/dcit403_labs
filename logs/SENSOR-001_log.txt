@@ -1,0 +1,8 @@
+[10:53:33] SENSOR-001: Percept | Temp: 44°C | Wind: 7km/h | AQI: 324 | Humidity: 100%
+[10:53:33] SENSOR-001: CRITICAL | Fire at Accra | Severity: CATASTROPHIC | People Affected: 236 | Resources: 15 teams
+[10:53:36] SENSOR-001: Percept | Temp: 43°C | Wind: 3km/h | AQI: 326 | Humidity: 100%
+[10:53:39] SENSOR-001: Percept | Temp: 43°C | Wind: 1km/h | AQI: 313 | Humidity: 94%
+[10:53:42] SENSOR-001: Percept | Temp: 45°C | Wind: 0km/h | AQI: 322 | Humidity: 100%
+[10:53:42] SENSOR-001: WARNING | Flood at Accra | Severity: HIGH | People Affected: 127 | Resources: 7 teams
+[10:53:45] SENSOR-001: Percept | Temp: 44°C | Wind: 1km/h | AQI: 309 | Humidity: 98%
+[10:53:48] SENSOR-001: Percept | Temp: 43°C | Wind: 0km/h | AQI: 308 | Humidity: 100%

@@ -1,0 +1,6 @@
+[10:53:42] SENSOR-003: Percept | Temp: 53°C | Wind: 35km/h | AQI: 291 | Humidity: 80%
+[10:53:42] SENSOR-003: WARNING | Earthquake at Tema | Severity: MODERATE | People Affected: 19 | Resources: 8 teams
+[10:53:42] SENSOR-003: WARNING | Fire at Tema | Severity: MODERATE | People Affected: 76 | Resources: 10 teams
+[10:53:45] SENSOR-003: Percept | Temp: 44°C | Wind: 36km/h | AQI: 302 | Humidity: 80%
+[10:53:48] SENSOR-003: Percept | Temp: 45°C | Wind: 89km/h | AQI: 317 | Humidity: 94%
+[10:53:48] SENSOR-003: CRITICAL | Storm at Tema | Severity: CATASTROPHIC | People Affected: 28 | Resources: 17 teams

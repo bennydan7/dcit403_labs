@@ -1,0 +1,36 @@
+[
+  {
+    "event_id": "D0003",
+    "disaster_type": "Fire",
+    "location": "Accra (5.6037, -0.1870)",
+    "severity": "CATASTROPHIC",
+    "timestamp": "2026-01-29T10:53:30.797275",
+    "affected_area_km2": 10.910049508710177,
+    "casualties": 236,
+    "infrastructure_damage_pct": 89.9771375123505,
+    "resources_needed": {
+      "medical_kits": 15,
+      "food_packages": 88,
+      "water_bottles": 342,
+      "rescue_teams": 15
+    },
+    "detected_by": "SENSOR-001"
+  },
+  {
+    "event_id": "D0008",
+    "disaster_type": "Flood",
+    "location": "Accra (5.6037, -0.1870)",
+    "severity": "HIGH",
+    "timestamp": "2026-01-29T10:53:42.812017",
+    "affected_area_km2": 49.10443344659612,
+    "casualties": 127,
+    "infrastructure_damage_pct": 39.98598687432796,
+    "resources_needed": {
+      "medical_kits": 74,
+      "food_packages": 400,
+      "water_bottles": 682,
+      "rescue_teams": 7
+    },
+    "detected_by": "SENSOR-001"
+  }
+]

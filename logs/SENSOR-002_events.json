@@ -1,0 +1,53 @@
+[
+  {
+    "event_id": "D0001",
+    "disaster_type": "Flood",
+    "location": "Kumasi (6.6944, -1.5547)",
+    "severity": "HIGH",
+    "timestamp": "2026-01-29T10:53:30.796650",
+    "affected_area_km2": 9.093458856547217,
+    "casualties": 43,
+    "infrastructure_damage_pct": 50.45162172092557,
+    "resources_needed": {
+      "medical_kits": 53,
+      "food_packages": 398,
+      "water_bottles": 775,
+      "rescue_teams": 3
+    },
+    "detected_by": "SENSOR-002"
+  },
+  {
+    "event_id": "D0006",
+    "disaster_type": "Earthquake",
+    "location": "Kumasi (6.6944, -1.5547)",
+    "severity": "MODERATE",
+    "timestamp": "2026-01-29T10:53:39.808261",
+    "affected_area_km2": 32.9381993826738,
+    "casualties": 93,
+    "infrastructure_damage_pct": 33.849790536402324,
+    "resources_needed": {
+      "medical_kits": 58,
+      "food_packages": 488,
+      "water_bottles": 679,
+      "rescue_teams": 19
+    },
+    "detected_by": "SENSOR-002"
+  },
+  {
+    "event_id": "D0013",
+    "disaster_type": "Flood",
+    "location": "Kumasi (6.6944, -1.5547)",
+    "severity": "CATASTROPHIC",
+    "timestamp": "2026-01-29T10:53:48.819840",
+    "affected_area_km2": 13.1579125238132,
+    "casualties": 151,
+    "infrastructure_damage_pct": 77.03187633540261,
+    "resources_needed": {
+      "medical_kits": 36,
+      "food_packages": 385,
+      "water_bottles": 736,
+      "rescue_teams": 15
+    },
+    "detected_by": "SENSOR-002"
+  }
+]

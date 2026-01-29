@@ -1,0 +1,8 @@
+[10:53:30] SENSOR-002: Percept | Temp: 31°C | Wind: 16km/h | AQI: 145 | Humidity: 100%
+[10:53:30] SENSOR-002: WARNING | Flood at Kumasi | Severity: HIGH | People Affected: 43 | Resources: 3 teams
+[10:53:39] SENSOR-002: Percept | Temp: 28°C | Wind: 7km/h | AQI: 166 | Humidity: 93%
+[10:53:39] SENSOR-002: WARNING | Earthquake at Kumasi | Severity: MODERATE | People Affected: 93 | Resources: 19 teams
+[10:53:42] SENSOR-002: Percept | Temp: 27°C | Wind: 93km/h | AQI: 148 | Humidity: 100%
+[10:53:45] SENSOR-002: Percept | Temp: 26°C | Wind: 93km/h | AQI: 129 | Humidity: 96%
+[10:53:48] SENSOR-002: Percept | Temp: 45°C | Wind: 101km/h | AQI: 255 | Humidity: 99%
+[10:53:48] SENSOR-002: CRITICAL | Flood at Kumasi | Severity: CATASTROPHIC | People Affected: 151 | Resources: 15 teams
