@@ -139,17 +139,56 @@ The system will deploy 3 sensor agents across different locations and monitor fo
 
 ---
 
+## Lab 3: Goals, Events, and Reactive Behavior
+
+**Objective**
+
+To model agent goals and event-triggered behavior.
+
+**Background**
+
+Agents respond to internal and external events while pursuing goals.
+
+**Practical Tasks**
+
+1. Define rescue and response goals
+2. Trigger events from sensor reports
+3. Implement reactive behavior using Finite State Machine (FSM)
+
+**Files**
+
+- `disaster_response/lab3_goal_event_fsm_agent.py` — Goal-driven reactive agent with FSM
+- `disaster_response/lab3_fsm_diagram.md` — FSM diagram and event trigger summary
+- `logs/LAB3_execution_trace.txt` — Execution trace output from simulation run
+
+**Execution**
+
+```bash
+python3 disaster_response/lab3_goal_event_fsm_agent.py
+```
+
+**Deliverables**
+
+- FSM diagram
+- Python implementation
+- Execution trace
+
+---
+
 ## Project Structure
 
 ```
 disaster_response/
 ├── lab1_basic_agent_simple.py    - Basic agent implementation
 ├── lab2_sensor_agent.py          - Sensor agent implementation
+├── lab3_goal_event_fsm_agent.py  - Goal-driven FSM reactive agent
+├── lab3_fsm_diagram.md           - FSM diagram and trigger mapping
 └── environment.py                - Environment simulation
 
 logs/
 ├── SENSOR-001_log.txt            - Agent monitoring logs
 ├── SENSOR-001_events.json        - Detected events
+├── LAB3_execution_trace.txt       - Lab 3 state transition trace
 └── ... (additional sensor logs)
 ```
 
